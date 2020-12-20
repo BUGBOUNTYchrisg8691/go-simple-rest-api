@@ -1,0 +1,8 @@
+{
+    "isbn": "1234567890000",
+    "title": "Test add Book",
+    "author": {
+        "firstname": "Carol",
+        "lastname": "Baskin"
+    }
+}
